@@ -7,5 +7,6 @@ function forLoop (array){
     array[i]===`I am ${i} strangle loops.`
     }
   }
+  console.log(array)
   return array
 }
